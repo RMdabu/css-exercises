@@ -6,10 +6,15 @@
 }
 
 .box {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25%;
   background: palevioletred;
   font-weight: bold;
   text-align: center;
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+
 }
